@@ -1,3 +1,3 @@
 Name: Misha
 Age: 33
-Favorite color: brown
+Favorite color: blue
